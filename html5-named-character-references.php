@@ -1,23 +1,5 @@
 <?php
 
-/**
- * Auto-generated class for looking up HTML named character references.
- *
- * ⚠️ !!! THIS ENTIRE FILE IS AUTOMATICALLY GENERATED !!! ⚠️
- * Do not modify this file directly.
- *
- * To regenerate, run the generation script directly.
- *
- * Example:
- *
- *     php tests/phpunit/data/html5-entities/generate-html5-named-character-references.php
- *
- * @package WordPress
- * @since 6.6.0
- */
-
-// phpcs:disable
-
 global $html5_named_character_references;
 
 /**
